@@ -35,3 +35,5 @@ Route::get('/news',function(){
 
 Route::get('/customer','PageController@showCustomer');
     
+
+//add new
